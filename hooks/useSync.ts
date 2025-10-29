@@ -20,7 +20,6 @@ export default function useSync(userId: string) {
             }
             markOperationSynced(op.id);
           }
-          // Add logic for 'group' if needed
         }
       })();
     }

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TODO App",
+    "slug": "todo-app",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": ["android"],
+    "icon": "./assets/icon.png",
+    "extra": {
+      "clerkPublishableKey": "pk_test_xxxx",
+      "supabaseUrl": "https://your-project.supabase.co",
+      "supabaseAnonKey": "eyJxxxx"
+    }
+  }
+}
